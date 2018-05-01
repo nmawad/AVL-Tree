@@ -1,0 +1,4 @@
+Zip	City	State	Abbr.	County	Long	Lat	
+31191	Atlanta	Georgia	GA	Fulton	-84.474	33.8444	
+28290	Charlotte	North Carolina	NC	Mecklenburg	-80.8042	35.26	
+75323	Dallas	Texas	TX	Dallas	-96.7776	32.7673	
